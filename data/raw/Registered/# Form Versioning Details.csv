@@ -1,0 +1,13 @@
+# Form Versioning Details,,,
+Form ID,Form Revision Number,English Description,French Description
+23,19 B,"In order to accommodate previous versions of the T3010, the number of columns will not decrease in the files even when the data has not been collected in that particular version. In these cases, the system will produce a blank field value for that T3010 record.","Afin de tenir compte des versions précédentes du T3010, le nombre de colonnes ne diminuera pas dans les fichiers même si les données n'ont pas été collectées dans cette version particulière. Dans de tels cas, le système générera une valeur de champ vide pour le T3010 en question."
+,,,
+,,"T3010, version 23 – From May 13 to October 20, 2019. ","T3010, version 23 - du 13 mai au 20 octobre 2019"
+,,"T3010, version 23 can still be entered into the system when:",La version 23 du formulaire T3010 peut toujours être entrée dans le système dans l’une ou l’autre des conditions suivantes :
+,,,
+,,1. it has been submitted on paper,1. le formulaire a été soumis sur papier;
+,,"2. an adjustment to the old version is being processed, or",2. une modification apportée à l'ancienne version est en cours de traitement;
+,,"3. an existing version 23 is being processed at the time of the fall 2019 release (October 21, 2019).",3. une version 23 existante est en cours de traitement au moment du lancement de la version de l'automne 2019 (21 octobre 2019).
+,,,
+24,19 C,"T3010, version 24 – From October 21, 2019 to present. ","T3010, version 24 - du 21 octobre 2019 à aujourd'hui"
+,,"Schedule 7: Political Activities – Description has been renamed Schedule 7: Description. Schedule 7 Political Activities - Funding and Schedule 7 Political Activities - Resources have been removed from the form. When version 24 of the form is used, these tables will not be populated, they will be blank.","La section intitulée « Annexe 7, Activités politiques – Description » a été renommée « Annexe 7, Description ». Les sections « Annexe 7, Activités politiques – Financement » et « Annexe 7, Activités politiques – Ressources » ont été supprimées du formulaire. Lorsque la version 24 du formulaire est utilisée, ces tableaux ne seront pas remplis, ils seront vides."

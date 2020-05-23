@@ -1,0 +1,5 @@
+env_prompt: "'({name})'"
+channels:
+  - conda-forge
+  - defaults
+channel_priority: strict

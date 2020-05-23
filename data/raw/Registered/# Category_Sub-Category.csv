@@ -1,0 +1,253 @@
+Category Code,Category English Desc,Category French Desc,Sub-Category Code,Sub-Category English Desc,Sub-Category French Desc,Charity Type English Desc,Charity Type French Desc
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,1,"Facilitator organization supporting, improving, and enhancing the work of groups involved in the relief of poverty",Organisme-cadre qui appuie et améliore le travail de groupes impliqués dans le soulagement de la pauvreté,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,2,Humanitarian assistance (outside of Canada),Aide humanitaire (à l'extérieur du Canada),Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,3,Medical services not otherwise covered by basic health care (dental / optometry / counselling),Services médicaux non-couverts par un régime d'assurance-maladie de base (soins dentaires / optométrie / counseling),Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,4,Operating a food bank,Opérer une banque alimentaire,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,5,Operating a micro-lending program,Opérer un programme de micro-prêts,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,6,Operating a shelter,Opérér un refuge pour les sans-abri,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,7,Orphanage,Orphelinat,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,8,Pro-bono legal services,Services juridiques pro bono,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,9,Providing low-cost housing,Fournir des logements à loyer modique,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,10,Providing meals (including breakfast programs),Fournir des repas (y compris les programmes de petit-déjeuner),Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,11,Providing medical equipment and supplies,Fournir de l'équipement médical et des fournitures,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,12,Providing household items (furniture / appliances),Fournir des articles de maison (meubles / électroménagers),Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,13,Providing material assistance (clothing / computers / equipment),Fournir de l'aide matérielle (vêtements / ordinateurs / équipements),Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,14,Providing work related clothing / career development tools / work integration (resume writing / interview tips),Fournir vêtements de travail / intégration au marché du travail (rédaction de CV / aide pour entrevues),Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,15,Refugee (support and settlement assistance),Réfugiés / aide aux immigrants dans la pauvreté,Relief of Poverty,Soulagement de la pauvreté
+1,Organizations Relieving Poverty,Organismes qui soulagent la pauvreté,99,Other,Autre,Relief of Poverty,Soulagement de la pauvreté
+2,Foundations Relieving Poverty,Fondations qui soulagent la pauvreté,1,Foundations for specified poverty charities,Fondations pour organismes de bienfaisance spécifiques - pauvreté,Relief of Poverty,Soulagement de la pauvreté
+2,Foundations Relieving Poverty,Fondations qui soulagent la pauvreté,2,Foundations funding poverty QDs in general,Fondations versant des fonds à des DR en général - pauvreté,Relief of Poverty,Soulagement de la pauvreté
+10,Teaching Institutions,Institutions d'enseignement,1,Preschool (early-childhood education / junior kindergarden),Préscolaire (petite enfance / pré-maternelle),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,2,Kindergarten,Maternelle,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,3,Public elementary school,École primaire publique,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,4,Independent elementary schools (includes religious),École primaire indépendante (y compris religieuse),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,5,Public middle school,École intermédiare publique,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,6,Independent middle school (including religious),École intermédiare indépendante (y compris religieuse),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,7,Public secondary school,École secondaire publique,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,8,Independent secondary school (including religious),École secondaire indépendante (y compris religieuse),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,9,Public district board (all grades),Conseil scolaire publique (tous les niveaux),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,10,Catholic district / separate school board (all grades),Conseil scolaire catholique / séparé (tous les niveaux),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,11,School association / board / district,Association d'école / conseil / district,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,12,Schools for students with intellectual disabilities (physical / communicative / mental or social learning difficulties),École pour étudiants ayant des besoins spéciaux (difficultés d'apprentissage / physique/ communication / mental ou social),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,13,Vocational / technical school,Formation professionnel / technique,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,14,College (includes religious),Collège (y compris religieux),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,15,University (includes religious),Université (y compris religieux),Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,16,Educational camps,Camps éducatifs,Advancement of Education,Avancement de l'éducation
+10,Teaching Institutions,Institutions d'enseignement,99,Other,Autre,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,1,School councils (parent-teacher associations),Conseils / associations parents-enseignants,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,2,Tutoring programs or services,Programmes ou services de tutorat,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,3,Scholarships / bursaries / awards (scholastic achievement),Bourses / prix (de réussite scolaire),Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,4,Literary / debating society,Société littéraire / d'art oratoire,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,5,Literacy groups,Groupe d'alphabétisation,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,6,Construction of schools / Renovations / building supplies,Construction d'écoles/fournitures scolaires,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,7,Educational aids / schools supplies,Soutien à l'éducation / fournitures scolaires,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,8,Fund for specific college / university  /school,Fonds pour collège / université / école spécific,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,9,Facilitator organization supporting and enhancing the work of groups involved in the advancement of education,Organisme-cadre qui appuie et améliore le travail de groupes impliqués dans l'avancement de l'éducation,Advancement of Education,Avancement de l'éducation
+11,Support of schools and education,Soutien aux écoles et à l'éducation,99,Other,Autre,Advancement of Education,Avancement de l'éducation
+12,Education in the arts,Éducation dans le domaine des arts,1,Art school (painting / sculpture / drawing / forms of visual arts),École d'arts (peinture / sculpture / dessin / arts visuels),Advancement of Education,Avancement de l'éducation
+12,Education in the arts,Éducation dans le domaine des arts,2,Music conservatory / school / society,Conservatoire  / école / société de musique,Advancement of Education,Avancement de l'éducation
+12,Education in the arts,Éducation dans le domaine des arts,3,Theatre / film / drama school / society / company,Théâtre  / École de théâtre / compagnie ou société d'art dramatique,Advancement of Education,Avancement de l'éducation
+12,Education in the arts,Éducation dans le domaine des arts,4,Scholarships / bursaries / awards (studying performance arts),Bourses / prix (pour études en arts de la scène),Advancement of Education,Avancement de l'éducation
+12,Education in the arts,Éducation dans le domaine des arts,99,Other,Autre,Advancement of Education,Avancement de l'éducation
+13,Educational organizations not elsewhere categorized,Organismes éducatifs non répertoriés ailleurs,1,Cadets,Cadets,Advancement of Education,Avancement de l'éducation
+13,Educational organizations not elsewhere categorized,Organismes éducatifs non répertoriés ailleurs,2,Guides,Guides,Advancement of Education,Avancement de l'éducation
+13,Educational organizations not elsewhere categorized,Organismes éducatifs non répertoriés ailleurs,3,Scouts,Scouts,Advancement of Education,Avancement de l'éducation
+13,Educational organizations not elsewhere categorized,Organismes éducatifs non répertoriés ailleurs,99,Other,Autre,Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,1,Medical research (health sciences / disease),Recherche médicale (sciences de santé / maladie),Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,2,Environmental research (ecosystem / conservation / wildlife),Recherche environnementale (ecosystèmes / conservation / faune),Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,3,Social sciences / humanities research (politics / law / linguistics / economics / psychology),Recherche en sciences sociales (politique / droit / linguistique / économie / psychologie),Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,4,Public policy research institutes economic / social policy,Instituts de recherche en politique publique / politique sociale,Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,5,Scholarships / bursaries / awards (for conducting research),Bourses / prix pour effectuer de la recherche,Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,6,Sciences / physics / chemistry,Sciences / physique / chimie,Advancement of Education,Avancement de l'éducation
+14,Research,Recherche,99,Other,Autre,Advancement of Education,Avancement de l'éducation
+15,Foundations Advancing Education,Fondations qui servent à l'avancement de l'éducation,1,Foundations for specified educational charities,Fondations pour organismes de bienfaisance spécifiques - éducation,Advancement of Education,Avancement de l'éducation
+15,Foundations Advancing Education,Fondations qui servent à l'avancement de l'éducation,2,Foundations funding educational QDs in general,Fondations versant des fonds à des DR en général - éducation,Advancement of Education,Avancement de l'éducation
+30,Christianity,Christianisme,1,Adventist,Adventiste,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,2,Anglican,Anglicane,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,3,Apostolic,Apostolique,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,4,Baptist,Baptistes,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,5,Catholic,Catholiques,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,6,Church of Christ,Église du Christ,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,7,Gospel,Évangile,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,8,Jehovahs Witnesses,Congrégations Témoins de Jéhovah,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,9,Mennonite / Brethren / Hutterite,Ménnonites / Frères / Hutterite,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,10,Orthodox,Orthodoxe,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,11,Pentecostal,Pentecôtiste,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,12,Presbyterian,Presbytériennes,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,13,Protestant,Protestant,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,14,Salvation Army Temples,Temples de l'Armée du Salut,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,15,United,Unie,Advancement of Religion,Avancement de la religion
+30,Christianity,Christianisme,99,Other,Autre,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,1,Ahmadi,Ahmadi,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,2,Alevi,Alevi,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,3,Ismaili,Ismaili,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,4,Salafi / Wahhabi,Salafi / Wahhabi,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,5,Shia,Shia / Chiite,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,6,Sufi,Soufie,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,7,Sunni,Sunnite,Advancement of Religion,Avancement de la religion
+40,Islam,Islam,99,Other,Autre,Advancement of Religion,Avancement de la religion
+50,Judaism,Judaïsme,1,Conservative,Conservateur,Advancement of Religion,Avancement de la religion
+50,Judaism,Judaïsme,2,Kabbalah,Kabbale,Advancement of Religion,Avancement de la religion
+50,Judaism,Judaïsme,3,Orthodox,Orthodoxe,Advancement of Religion,Avancement de la religion
+50,Judaism,Judaïsme,4,Reform,Réforme,Advancement of Religion,Avancement de la religion
+50,Judaism,Judaïsme,99,Other,Autre,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,1,Baha'i,Bahaïs,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,2,Buddhism,Bouddhisme,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,3,Hinduism,Hindouisme,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,4,Jainism,Jaïnisme,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,5,Sikhism,Sikhisme,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,6,Zoroastrianism,Zoroastrisme,Advancement of Religion,Avancement de la religion
+60,Other Religions,Autres religions,99,Other,Autre,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,1,Cemeteries (religious),Cimetières (religieux),Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,2,Convents and Monasteries,Couvents et monastères,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,3,Counselling (faith based),Counseling (basée sur la foi),Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,4,Crusade - one time event,Croisade - événement unique,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,5,Mission / Missionary organization,Mission / association évangélique,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,6,Fund / endowment for specific faith based organization,Fondation / dotation pour une église en particulier,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,7,Music - ministries / religious festivals,Musique - ministères / fêtes religieuses,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,8,Language translation - enable the reading of sacred text,Traduction de textes sacrés,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,9,Library - spiritual and educational resources,Bibliothèque - ressources spirituelles et éducatives,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,10,Pastoral care - hospice / hospital / prison,Soins pastoraux - hospice / hôpital / prison,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,11,Pilgrimages,Pèlerinages,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,12,Prayer fellowships / ministries / circles,Groupes de prière / ministères / cercles,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,13,Providing and maintaining facilities / title-holding entities,Fournir et entretenir des installations / Détention de titres,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,14,Religious education classes (bible study),Cours d'éducation religieuse (étude de la Bible),Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,15,Retirement / nursing / rehabilitation etc.,"Soutien à la retraite / infirmiers / réhabilitation, etc.",Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,16,Retreats - marriage encounter / spiritual / youth,Retraites - rencontre de mariage / spirituelle / jeunesse,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,17,Scholarships / bursaries / awards (religious courses),Bourses / cours de religion,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,18,"Facilitator organization supporting, improving, and enhancing the work of groups involved in the advancement of religion",Organisme-cadre qui appuie et améliore le travail de groupes impliqués dans l'avancement de la religion,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,19,Youth ministries / camps,Ministères pour les jeunes / camps,Advancement of Religion,Avancement de la religion
+70,Support of Religion,Les organismes de soutien religieux,99,Other,Autre,Advancement of Religion,Avancement de la religion
+80,Ecumenical and Inter-faith Organizations,Organismes inter-religieux et oecuméniques,1,Supporting/enhancing the work of religious groups/Collaborating with other denominations/Discussing theological topics,Appuyer/améliorer le travail de groupes religieux/Collaborer avec autres dénominations/Discuter de sujets théologiques,Advancement of Religion,Avancement de la religion
+90,Foundations Advancing Religions,Fondations qui avancent la religion,1,Foundations for specified religious charities,Fondations pour organismes de bienfaisance spécifiques - religion,Advancement of Religion,Avancement de la religion
+90,Foundations Advancing Religions,Fondations qui avancent la religion,2,Foundations funding religious QDs in general,Fondations versant des fonds à des DR en général - religion,Advancement of Religion,Avancement de la religion
+100,Core Health Care,Soins de santé essentiels,1,Addiction recovery programs and centres,Programmes et centres d'aide à la toxicomanie / alcoolisme / autres dépendances,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,2,Community health centre/ medical clinic,Clinique médicale / Centre de santé communautaire,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,3,Dental Clinic,Clinique dentaire,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,4,Counselling or support group programs,Programmes de counseling ou groupes de soutien,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,5,First aid services,Services de premiers soins,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,6,Hospitals (diagnosing and treating health conditions),Hôpitaux (diagnostic et le traitement des conditions de santé),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,7,Hospice,Hospice,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,8,Providing home health care,Fournir des soins de santé à domicile,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,9,Providing palliative care service,Fournir des services de soins palliatifs,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,10,Providing preventitive care,Fournir des soins préventifs,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,11,Providing psychological counselling,Fournir des services de counseling psychologique ou des services sociaux,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,12,"Providing physical, occupational, speech or massage therapy","Fournir des services de physiothérapie, d'ergothérapie ou de massothérapie",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,13,Rehabilitation programs and centres,Programmes et centres d'aide à la réhabilitation,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,14,Treatment / preventative care for specific disease / health condition,Traitement / soins préventifs pour une maladie / état de santé spécifique,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+100,Core Health Care,Soins de santé essentiels,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,1,Accompanying individuals to medical appointment/translate/interpret,Accompagnement à des rendez-vous médicaux / traduire / interpréter,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,2,Accommodation for hospital patients' visit,Hébergement pour visiteurs de patients hospitalisés,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,3,Family planning / birth control / pregnancy crisis counseling,Planification familiale et conseils sur le contrôle des naissances,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,4,General health promotion / prevention,Organisme de promotion de la santé,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,5,Health Boards - established by province,Commission de santé - créé par la province,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,6,Independent living skills (peer support / referrals),Améliorer l'autonomie / capacité  à vivre seul (soutien par les pairs / aiguillage),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,7,Health counselling and group support programs,Accès à des conseils de santé / info / programmes de soutien de groupe,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,8,Health Councils - established by province,Conseil de la santé - créé par la province,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,9,Health / medical conference / seminars,Conférence / séminaire sur la santé / médecine,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,10,Hospital auxiliaries,Auxiliaires bénévoles - dans les hôpitaux,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,11,Providing comfort items (cope with hospitalization / health condition),Fournir des éléments de confort (faire face à l'hospitalisation / état de santé),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,12,Respite for caregivers of persons with serious health conditions,Répit pour les aidants des personnes atteintes de problèmes de santé graves,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,13,Services that facilitate the delivery of health care,Services qui facilitent la livraison des soins de santé,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,14,Services for adults and children with developmental disabilities,Services pour adultes et enfants ayant des déficiences liées au développement,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,15,Transportation to medical appointments,Transport aux rendez-vous médicaux,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,16,Voluntary Association for specific hospital / home,Association bénévole pour un hôpital en particulier / foyer,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+110,Supportive Health Care,Soins de santé de soutien,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,1,Ambulance or paramedic services,Ambulance ou services paramédicaux,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,2,Disaster relief,Secours aux sinistrés,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,3,Voluntary Fire-fighting services,Services d'incendie bénévoles,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,4,Regulating / governing health care service providers and standards,Réglementer / régir les fournisseurs de services de soins de santé,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,5,Safety council / society,Conseil de sécurité,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,6,Search and rescue / lifesaving services,Recherche et sauvetage / services de secourisme,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+120,Protective Health Care,Soins relatifs à la protection de la santé,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+130,Health Care Products,Produits de soins de santé,1,Drugs (radiopharmaceutical / biologics / medicines / vaccines),"Médicaments (radiopharmaceutiques, biologiques, médicaments, vaccins)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+130,Health Care Products,Produits de soins de santé,2,Medical equipment / supplies (for use inside or outside Canada),Équipement / fournitures médicales (à l'intérieur ou l'extérieur du Canada),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+130,Health Care Products,Produits de soins de santé,3,Providing natural health products,Fournir des produits de santé naturels,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+130,Health Care Products,Produits de soins de santé,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,1,Alternative medical services / products (dietary / herbal supplements),"Services / produits médicaux alternatifs (alimentaires, suppléments de fines herbes)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,2,Energy-based systems (spiritual healing),Systèmes à base d'énergie (guérison spirituelle),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,3,Manipulative body- based therapy (osteopathy / massage therapy),"Thérapies manuelles et thérapies du corps (ostéopathie, massothérapie)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,4,Mind-body techniques (meditation / acupuncture),"Techniques corps-esprit (méditation, l'acupuncture)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,5,Therapeutic programs for persons with disabilities,Programmes thérapeutiques pour personnes handicappées,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,6,Traditional programs / whole medicine (Chinese / Ayurvedic),"Programmes traditionnels / médecine holistique (Chinois, Ayurvedic)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,7,Providing physical fitness and wellness facilities / programs,Fournir des installations et des programmes de conditionnement physique et de mieux-être,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+140,Complementary or Alternative Health Care,Soins de santé complémentaires ou parallèles,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,1,Adapting residential accommodation,Adaptation de logements résidentiels,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,2,Home support/services (personal care / meals / housekeeping / shopping assistance / laundry / home repair),Soutien/services à domicile (hygiène personnelle / repas / aide ménagère ou au magasinage / lessive / réparations au domicile),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,3,Nursing home / senior's home with care,Centre d'hébergement / résidence pour aînés avec soins infirmiers,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,4,Relieving isolation (companionship / accompanient to social outings),Briser l'isolement et la solitude (compagnonnage / accompagnement lors de sorties),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,5,"Senior's outreach programs (housekeeping / tax preparation, etc.)","Programmes de services aux aînés (entretien ménager, préparation de déclarations d'impôt etc.)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,6,Support services to victims of elder abuse / counselling,Services de soutien et de counseling aux aînés victimes de mauvais traitements,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,7,Transportation for seniors,Transport adapté pour aînés,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+150,Relief of the Aged,Secours aux personnes âgées,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+155,Upholding Human Rights,Respect des droits de la personne,1,Increasing public awareness and promoting respect of human rights issues,Sensibiliser le public / accroître le respect du droit de la personne,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+155,Upholding Human Rights,Respect des droits de la personne,2,Monitoring / reporting on the fulfillment of human rights obligations,Surveillance / rapport sur le respect des obligations en matière du droit de la personne,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+155,Upholding Human Rights,Respect des droits de la personne,3,Upholding human rights law / administration and enforcement of human rights law,Application de la loi sur les droits de la personne/promotion de l'administration et du respect du droit de la personne,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+155,Upholding Human Rights,Respect des droits de la personne,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,1,Aboriginal programs and services (includes friendship centres),Programmes et services pour les autochtones (y compris les centres d'amitié),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,2,Battered women's centre,Centre / refuge pour femmes battues,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,3,Crime prevention / preservation of law & order,Prévention du crime / préservation de la justice et de l'ordre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,4,Community land trust,Fiducie immobilière pour le bénéfice de la communauté,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,5,Crisis / distress phone line,Ligne téléphonique d'aide à la crise / détresse,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,6,Daycare  /Nursery / After school care,Garderie de jour / après l'école,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,7,Employment / Job training for people with physical and mental disabilities,Emploi / formation professionnelle à l'emploi pour les personnes ayant des déficiences physiques ou mentales,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,8,Immigrant Services (jobs / language / etc.),"Services aux immigrants (emploi, langue, etc.)",Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,9,Legal assistance and services (mediation),Aide et services juridiques (médiation),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,10,Military / family / veteran support,Soutien aux membres / anciens combattants des Forces armées et leurs familles,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,11,Missing children organization,Organisme pour la recherche d'enfants disparus,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,12,Rape / sexual assault / abuse support,Soutien aux victimes de viol / abus sexuel,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,13,Rehabilitation of offenders,Réhabilitation des contrevenants,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,14,Suicide prevention,Prévention du suicide,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,15,Facilitator organization supporting and enhancing the work of groups involved in the delivery of charitable programs,Organisme-cadre qui appuie et améliore le travail de groupes impliqués dans la prestation de programmes de bienfaisance,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,16,Employment counselling / guidance (career),Conseils et préparation à l'emploi (carrière),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,17,Employment training / rehabilitation,Formation liée à l'emploi / réadaptation professionelle,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,18,Volunteerism,Bénévolat,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,19,Youth programs and services,Programmes et services pour les jeunes,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+160,Community Resource,Ressources communautaires,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+170,Environment,Environnement,1,Conservation of nature / habitat group / ecosystem preservation etc.,Groupe de protection de la nature / habitat naturel / préservation de l'écosystème,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+170,Environment,Environnement,2,Pollution Reduction,Réduction de la pollution,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+170,Environment,Environnement,3,Environmental development solutions and technologies,Solutions et technologies liées au développement environnemental,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+170,Environment,Environnement,4,Upholding environmental law,Respect des lois environnementales,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+170,Environment,Environnement,5,Waste management reduction / recycling,Réduction des déchets / recyclage,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+170,Environment,Environnement,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+175,Agriculture,Agriculture,1,Agriculture / farm society or aid / safety,Société / aide / sécurité agricole,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+175,Agriculture,Agriculture,2,Horticultural society,Société d'horticulture,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+175,Agriculture,Agriculture,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+180,Animal Welfare,Protection des animaux,1,Animal hospital,Hôpital / clinique vétérinaire,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+180,Animal Welfare,Protection des animaux,2,Animal shelter / neuter /adoption,Adoption / refuge / stérilisation des animaux,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+180,Animal Welfare,Protection des animaux,3,Wildlife protection organization,Organisme de protection de la faune en général,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+180,Animal Welfare,Protection des animaux,4,Rescuing domestic / holding stray / abandoned / surrendered animals,Sauvetage des animaux délaissés / errants,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+180,Animal Welfare,Protection des animaux,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,1,Arts council (promoting the industry),Conseil des arts (promotion de l'industrie),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,2,Arts festival,Festival artistique,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,3,Crafts (beadwork / ceramics / furniture / glass / metal / wood / etc.),Artisanat (perlage / céramiques / meubles / verre / métal / bois / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,4,Dance (ballet / classical / jazz / modern / tap / etc.),Dance (ballet / classique / jazz / moderne / claquettes / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,5,Literature (novels / playwriting / poetry / short stories / etc.),Littérature (romans / la dramaturgie / la poésie / des histoires courtes / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,6,Media arts (animation / film / screenwriting / etc.),Arts médiatiques (animation / cinéma / écriture de scénario / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,7,Music (band / choral / gospel / jazz / opera / orchestral / etc.),Musique (groupe / chorale / gospel / jazz / opéra / orchestre / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,8,Music Festival,Festival de musique,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,9,Theatre / performing arts (drama /comedy /musical / puppetry / etc.),Théâtre / arts de la scène (théâtre / comédie / musique / marionnettes / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,10,Visual arts (drawing and illustration / painting / photography / etc.),Arts visuels (dessin et illustration / peinture / photographie / etc.),Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+190,Arts,Artistiques,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,1,Aquarium,Aquarium,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,2,Archives,Archives,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,3,Art gallery,Galerie d'art,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,4,Botanical garden,Jardin botanique,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,5,Camps / recreation,Camps / récréation,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,6,Cemetery (secular),Cimetières séculiers,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,7,Community Centre / hall,Centre communautaire / salle,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,8,Hall of fame,Temple de la renommée,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,9,Heritage / Historical site,Site historique / patrimoine,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,10,Library,Bibliothèque,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,11,Memorial,Monument commémoratif,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,12,Museum,Musée,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,13,National and provincial parks,Parcs nationaux ou provinciaux,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,14,Nature centre / society / trails,Centre de la nature / société / sentiers,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,15,Performing arts centre / facility,Centre d'arts,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,16,Public recreation / arenas / parks / playgrounds / pools,Arénas / parc / terrain de jeux communautaire / piscine,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,17,Zoo / zoological society,Zoo / société zoologique,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+200,Public Amenities,Services publics,99,Other,Autre,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+210,Foundations,Fondations,1,Foundations for specified community benefit,Fondations pour un bénifice communautaire désigné,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+210,Foundations,Fondations,2,Foundations funding community benefit QDs in general,Fondations pour DR qui oeuvrent pour le bénifice communautaire,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+214,CAAA,ACSA,1,CAAA,ACSA,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité
+215,NASO,OSNA,1,NASO,OSNA,Other Purposes Beneficial to the Community,Autres fins qui profitent à la collectivité

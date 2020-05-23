@@ -1,0 +1,55 @@
+CHANGE ANACONDA START FOLDER
+Go to Start and search for "Anaconda Prompt" 
+- right click this and choose "Open File Location", 
+which will open a folder of shortcuts. 
+Right click the "Anaconda Prompt" shortcut, 
+choose "Properties" and you can adjust the starting dir in the "Start in" box.
+
+TO UPDATE CONDA
+conda update -n base -c defaults conda
+
+HOW TO VIEW FILE CONTENTS
+cat environment.yml
+
+HOW TO CREATE GIT REPOSITORY
+
+HOW TO CREATE ENVIRONMENT
+
+
+HOW TO CREATE ENVIRONMENT IN PREFIX
+cd /d E:/Projects/canadacharities/ #navigate to folder
+conda create --prefix ./envs #create environment in envs subdirectory of cwd -- select y // use conda env create if .yml already existing
+conda activate ./envs
+conda config --set env_prompt '({name})' #remove long prefix in shell prompt
+conda config --env --add channels conda-forge
+conda config --env --set channel_priority strict
+
+HOW TO INSTALL PACKAGES
+conda install --prefix ./envs sys os datetime warnings
+
+conda env update --previx ./envs --file environment.yml --prune #update env uing yml file, removing unnecessary dependencies
+conda env list #verify installed correctly
+
+conda config --set env_prompt '({default_env})'
+conda deactivate
+
+HOW TO LIST ALL INSTALLED PACKAGES
+conda list
+
+jupyter notebook
+
+HOW TO CREATE DIRECTORIES FOR DATA IN GITHUB DIRECTORY
+
+mkdir -p data/raw data/interim data/external data/processed
+touch data/raw/.gitkeep data/interim/.gitkeep data/external/.gitkeep data/processed/.gitkeep
+
+--adjust .gitignore
+#exclude data from source control by default
+/data/
+
+--add .gitkeep (to make empty directories on clone)
+git add -f data/raw/.gitkeep data/interim/.gitkeep data/external/.gitkeep data/processed/.gitkeep
+git add .gitignore
+git status
+
+git commit -m "Empty data directories"

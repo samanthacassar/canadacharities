@@ -1,0 +1,14 @@
+name: E:\Projects\canadacharities\envs
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - jupyter
+  - notebook
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+prefix: E:\Projects\canadacharities\envs
+

@@ -22,8 +22,7 @@ Financial Section A_ B and C,17,2400,bool,"Did the charity carry on any politica
 Financial Section A_ B and C,18,5030,float,Total amount spent by the charity on these political activities.
 Financial Section A_ B and C,19,5031,float,"Of the amount at line 5030, the total amount of gifts made to qualified donees."
 Financial Section A_ B and C,20,5032,float,Total amount received from outside Canada that was directed to be spent on political activities.
-Financial Section A_ B and C,21,2500,bool,"Fundraising method: Advertisements/print/radio/
-TV commercials"
+Financial Section A_ B and C,21,2500,bool,Fundraising method: Advertisements/print/radio/TV commercials
 Financial Section A_ B and C,22,2510,bool,Fundraising method: Auctions
 Financial Section A_ B and C,23,2530,bool,Fundraising method: Collection plate/boxes
 Financial Section A_ B and C,24,2540,bool,Fundraising method: Door-to-door solicitation
@@ -33,8 +32,7 @@ Financial Section A_ B and C,27,2570,bool,Fundraising method: Sales
 Financial Section A_ B and C,28,2575,bool,Fundraising method: Internet
 Financial Section A_ B and C,29,2580,bool,Fundraising method: Mail campaigns
 Financial Section A_ B and C,30,2590,bool,Fundraising method: Planned-giving programs
-Financial Section A_ B and C,31,2600,bool,"Fundraising method: Targeted corporate
-Fundraising method: donations/sponsorships"
+Financial Section A_ B and C,31,2600,bool,Fundraising method: Targeted corporate donations/sponsorships
 Financial Section A_ B and C,32,2610,bool,Fundraising method: Targeted contacts
 Financial Section A_ B and C,33,2620,bool,Fundraising method: Telephone/TV solicitations
 Financial Section A_ B and C,34,2630,bool,Fundraising method: Tournament/sporting events
@@ -93,23 +91,23 @@ Financial Section D & Schedule 6,27,4490,bool,Did the charity issue tax receipts
 Financial Section D & Schedule 6,28,4500,float,Total eligible amount of all gifts for which the charity issued tax receipts
 Financial Section D & Schedule 6,29,5610,float,Total eligible amount of tax-receipted tuition fees
 Financial Section D & Schedule 6,30,4505,float,Total amount of 10 year gifts received
-Financial Section D & Schedule 6,31,4510,float,Total amount received from other registered charities
-Financial Section D & Schedule 6,32,4530,float,Total other gifts received for which a tax receipt was not issued by the charity
-Financial Section D & Schedule 6,33,4540,float,Total revenue received from federal government
-Financial Section D & Schedule 6,34,4550,float,Total revenue received from provincial/territorial governments
-Financial Section D & Schedule 6,35,4560,float,Total revenue received from municipal/regional governments
+Financial Section D & Schedule 6,31,4510,float,Revenue: Other registered charities
+Financial Section D & Schedule 6,32,4530,float,Revenue: Gifts received (no tax receipt)
+Financial Section D & Schedule 6,33,4540,float,Revenue: Federal government
+Financial Section D & Schedule 6,34,4550,float,Revenue: Provincial/territorial governments
+Financial Section D & Schedule 6,35,4560,float,Revenue: Municipal/regional governments
 Financial Section D & Schedule 6,36,4565,bool,Did the charity receive any revenue from any level of government in Canada?
-Financial Section D & Schedule 6,37,4570,float,Total amount received from any level of government in Canada
-Financial Section D & Schedule 6,38,4571,float,Total tax-receipted revenue from all sources outside of Canada (government and non-government)
-Financial Section D & Schedule 6,39,4575,float,Total non tax-receipted revenue from all sources outside of Canada (government and non-government)
-Financial Section D & Schedule 6,40,4580,float,Total interest and investment income received or earned
-Financial Section D & Schedule 6,41,4590,float,Gross proceeds from disposition of assets
-Financial Section D & Schedule 6,42,4600,float,Net proceeds from disposition of assets (show a negative amount with brackets)
-Financial Section D & Schedule 6,43,4610,float,Gross income received from rental of land and/or buildings
-Financial Section D & Schedule 6,44,4620,float,"Total non tax-receipted revenues received for memberships, dues and association fees"
-Financial Section D & Schedule 6,45,4630,float,Total non tax-receipted revenue from fundraising
-Financial Section D & Schedule 6,46,4640,float,Total revenue from sale of goods and services (except to any level of government in Canada)
-Financial Section D & Schedule 6,47,4650,float,Other revenue
+Financial Section D & Schedule 6,37,4570,float,Revenue: Any government in Canada
+Financial Section D & Schedule 6,38,4571,float,Revenue: Revenue from outside Canada (with tax receipt)
+Financial Section D & Schedule 6,39,4575,float,Revenue: Revenue from outside Canada (no tax receipt)
+Financial Section D & Schedule 6,40,4580,float,Revenue: Interest and investment income received or earned
+Financial Section D & Schedule 6,41,4590,float,Revenue: Disposition of assets (Gross)
+Financial Section D & Schedule 6,42,4600,float,Revenue: Disposition of assets (Net) (show a negative amount with brackets)
+Financial Section D & Schedule 6,43,4610,float,Revenue: Rental of land and/or buildings (Gross)
+Financial Section D & Schedule 6,44,4620,float,"Revenue: Memberships, dues and association fees (no tax receipt)"
+Financial Section D & Schedule 6,45,4630,float,Revenue: Fundraising (no tax receipt)
+Financial Section D & Schedule 6,46,4640,float,Revenue: Sale of goods and services (except to government in Canada)
+Financial Section D & Schedule 6,47,4650,float,Revenue: Other
 Financial Section D & Schedule 6,48,4655,object,Specify type(s) of revenue included in the amount reported at 4650
 Financial Section D & Schedule 6,49,4700,float,Total revenue
 Financial Section D & Schedule 6,50,4800,float,Advertising and promotion
@@ -128,12 +126,12 @@ Financial Section D & Schedule 6,62,4910,float,Research grants and scholarships 
 Financial Section D & Schedule 6,63,4920,float,All other expenditures
 Financial Section D & Schedule 6,64,4930,object,Specify type(s) of expenditures included in the amount reported at 4920
 Financial Section D & Schedule 6,65,4950,float,Total expenditures (excluding gifts to qualified donees)
-Financial Section D & Schedule 6,66,5000,float,Total expenditures on charitable activities
-Financial Section D & Schedule 6,67,5010,float,Total expenditures on management and administration
-Financial Section D & Schedule 6,68,5020,float,Total expenditures on fundraising
-Financial Section D & Schedule 6,69,5030,float,"Total expenditures on political activities, inside or outside Canada, from question C5 (b)"
-Financial Section D & Schedule 6,70,5040,float,Total other expenditures
-Financial Section D & Schedule 6,71,5050,float,Total amount of gifts made to all qualified donees
+Financial Section D & Schedule 6,66,5000,float,Expenditures: Charitable activities
+Financial Section D & Schedule 6,67,5010,float,Expenditures: Management and administration
+Financial Section D & Schedule 6,68,5020,float,Expenditures: Fundraising
+Financial Section D & Schedule 6,69,5030,float,"Expenditures: Political activities, inside or outside Canada, from question C5 (b)"
+Financial Section D & Schedule 6,70,5040,float,Expenditures: Other expenditures
+Financial Section D & Schedule 6,71,5050,float,Expenditures: Gifts made to qualified donees
 Financial Section D & Schedule 6,72,5100,float,Total expenditures
 Financial Section D & Schedule 6,73,5500,float,"Enter the amount accumulated for the fiscal period, including income earned on accumulated funds"
 Financial Section D & Schedule 6,74,5510,float,Enter the amount disbursed for the fiscal period for the specified purpose

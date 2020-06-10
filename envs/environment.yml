@@ -10,5 +10,6 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - nb_conda
 prefix: E:\Projects\canadacharities\envs
 

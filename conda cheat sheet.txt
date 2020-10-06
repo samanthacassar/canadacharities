@@ -53,3 +53,8 @@ git add .gitignore
 git status
 
 git commit -m "Empty data directories"
+
+git pull --upon starting work on project to get most recent updates
+
+git push -u origin master --to update master repository with local branch commits
+
